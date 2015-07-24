@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AccuratePitch.xcscheme</key>
+		<key>helloworld.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F5BB58351B61BB4600280EBD</key>
+		<key>4D00AF1417CE6E3800A0FAE8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F5BB584D1B61BB4600280EBD</key>
+		<key>4D00AF3517CE6E3800A0FAE8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
